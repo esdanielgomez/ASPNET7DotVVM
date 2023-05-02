@@ -1,1 +1,1 @@
-# ASPNET7DotVVM
+# Web application demo with ASP.NET 7
