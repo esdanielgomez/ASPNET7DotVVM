@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\Resources\\Images\\text.svg",
+      "PackagePath": "staticwebassets\\Resources\\Images\\text.svg"
+    },
+    {
+      "Id": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\Resources\\Images\\tree.svg",
+      "PackagePath": "staticwebassets\\Resources\\Images\\tree.svg"
+    },
+    {
+      "Id": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\Resources\\style.css",
+      "PackagePath": "staticwebassets\\Resources\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.App.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.App.PL.props",
+      "PackagePath": "build\\App.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.App.PL.props",
+      "PackagePath": "buildMultiTargeting\\App.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.App.PL.props",
+      "PackagePath": "buildTransitive\\App.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

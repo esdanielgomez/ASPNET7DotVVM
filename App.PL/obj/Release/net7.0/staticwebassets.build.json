@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "3ehd7DfFTULF4ezaZXPqlU4pV3m+5YFg8Ux30i71Wjw=",
+  "Source": "App.PL",
+  "BasePath": "_content/App.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "App.PL\\wwwroot",
+      "Source": "App.PL",
+      "ContentRoot": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\",
+      "BasePath": "_content/App.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\Resources\\Images\\text.svg",
+      "SourceId": "App.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\",
+      "BasePath": "_content/App.PL",
+      "RelativePath": "Resources/Images/text.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\text.svg"
+    },
+    {
+      "Identity": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\Resources\\Images\\tree.svg",
+      "SourceId": "App.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\",
+      "BasePath": "_content/App.PL",
+      "RelativePath": "Resources/Images/tree.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\tree.svg"
+    },
+    {
+      "Identity": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\Resources\\style.css",
+      "SourceId": "App.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\",
+      "BasePath": "_content/App.PL",
+      "RelativePath": "Resources/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\styles.css",
+      "SourceId": "App.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\daniel.gomez\\OneDrive - Verndale\\Documents\\DotNET\\ASPNET7DotVVM\\App.PL\\wwwroot\\",
+      "BasePath": "_content/App.PL",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
